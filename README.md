@@ -24,7 +24,7 @@ Sus características variables son:
 ## Diagrama de clases
 
 [Clic aquí para ver el diagrama en detalle](https://www.lucidchart.com/invitations/accept/8c636d7d-ed46-4455-ab5f-a3506aa81ddf)
-![Image](https://github.com/MISO4204-201920/graph-lps/blob/master/images/class-diagram.png)
+![Image](https://github.com/MISO4204-201920/graph-lps/blob/master/images/class-diagram-1.png)
 
 ## Sprint 0 - Visión de arquitectura
 
