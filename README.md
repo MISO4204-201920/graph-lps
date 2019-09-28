@@ -13,9 +13,9 @@ The "Graph product line" es una línea de productos de grafos que se compone de 
 Sus características comunes son los vértices (nodos) y sus aristas (arcos) así también como crear grafos agregando nodos y arcos.
 
 Sus características variables son:
-* Tipos de grafos: Pueden ser dirigidos y no dirigidos. Un grafo dirigido tiene una sola dirección de vértice a vértice. Un grafo no dirigido tiene las 2 direcciónes de vértice a vértice (ida y vuelta).
+* Tipos de grafos: Pueden ser dirigidos y no dirigidos. Un grafo dirigido tiene una sola dirección de vértice a vértice. Un grafo no dirigido tiene las 2 direcciones de vértice a vértice (ida y vuelta).
 * Peso: Los arcos pueden tener un valor con un número entero, por ejemplo, permite representar el costo, tiempo, valor, etc. que se toma ir de un vértice a otro.
-* Búsqueda: Esta carácterística es opcional, puede ser con algorítmos de profundidad (DFS) o por anchura (BFS).
+* Búsqueda: Esta característica es opcional, puede ser con algoritmos de profundidad (DFS) o por anchura (BFS).
 
 ## Modelo de características
 
@@ -26,6 +26,6 @@ Sus características variables son:
 [Clic aquí para ver el diagrama en detalle](https://www.lucidchart.com/invitations/accept/8c636d7d-ed46-4455-ab5f-a3506aa81ddf)
 ![Image](https://github.com/MISO4204-201920/graph-lps/blob/master/images/class-diagram-1.png)
 
-## Sprint 0 - Visión de arquitectura
+## Instrucciones de uso
 
-[![](https://imagen)](https://video)
+[![](https://github.com/MISO4204-201920/graph-lps/blob/master/images/video.png)](https://www.youtube.com/watch?v=0peJ3ESJckA)
