@@ -28,4 +28,4 @@ Sus características variables son:
 
 ## Instrucciones de uso
 
-[![](https://github.com/MISO4204-201920/graph-lps/blob/master/images/video.png)](https://www.youtube.com/watch?v=0peJ3ESJckA)
+[![](https://github.com/MISO4204-201920/graph-lps/blob/master/images/video-1.png)](https://www.youtube.com/watch?v=0peJ3ESJckA)
