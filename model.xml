@@ -12,16 +12,16 @@
 	<struct>
 		<and abstract="true" mandatory="true" name="Graph product line">
 			<and mandatory="true" name="Graph type">
-				<alt mandatory="true" name="Type 1">
+				<alt abstract="true" mandatory="true" name="Type 1">
 					<feature name="Directed"/>
 					<feature name="Undirected"/>
 				</alt>
-				<alt mandatory="true" name="Type 2">
+				<alt abstract="true" mandatory="true" name="Type 2">
 					<feature name="Weighted"/>
 					<feature name="Unweighted"/>
 				</alt>
 			</and>
-			<alt abstract="true" name="Search">
+			<alt name="Search">
 				<feature name="DFS"/>
 				<feature name="BFS"/>
 			</alt>
